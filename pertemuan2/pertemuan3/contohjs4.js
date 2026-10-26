@@ -1,0 +1,1 @@
+document.write("This message is written when the page loads")
